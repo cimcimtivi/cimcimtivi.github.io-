@@ -1,0 +1,20 @@
+EXTM3U 
+
+        
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q0Tt6QX/cccc.png,SELAMAT NATAL & TAHUN BARU
+https://raw.githubusercontent.com/cimtivi/cimtivi.github.io/main/CIMTV%20(1).mp4
+
+      
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q0Tt6QX/cccc.png,sctvvv
+https://ilike.squdinc.workers.dev/play.m3u8?id=204&key=vidio&type=hls
+      
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q0Tt6QX/cccc.png,sctv
+https://k.ksa.my.id/ksa.m3u8?a=c38a7b272f9c6d07b2c3&b=769e18d2eae69a34056d&c=606f050f137c26cc67bb|&User-Agent=Mozilla/5.0 
